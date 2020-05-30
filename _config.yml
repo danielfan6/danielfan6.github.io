@@ -7,7 +7,7 @@ description: 'University of Toronto Mechanical Engineering (2021 Graduation)'
 
 # Images
 avatar: '../assets/portrait.JPG'
-background: 'background.JPG'
+background: '../assets/background.JPG'
 favicon: 'favicon.ico'
 
 # Online profiles
